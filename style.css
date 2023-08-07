@@ -97,6 +97,7 @@ footer p {
 .hero-content {
     max-width: 600px;
     padding: 20px;
+    margin-left: 20px;
 }
 
 .hero-content h2 {
